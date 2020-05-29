@@ -2902,7 +2902,7 @@
 								<layer n="1" xml:id="layer-0000000603525097">
 									<beam xml:id="beam-0000001465049038">
 										<tuplet bracket.visible="false" num="3" num.visible="false" numbase="2" xml:id="tuplet-0000000841716189">
-											<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="note-0000000454049186">
+											<note dur="8" oct="4" pname="a" stem.dir="up" xml:id="note-0000000454049186">
 												<accid accid="s" xml:id="accid-0000001722538482"/>
 											</note>
 											<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="note-0000001195121270"/>
