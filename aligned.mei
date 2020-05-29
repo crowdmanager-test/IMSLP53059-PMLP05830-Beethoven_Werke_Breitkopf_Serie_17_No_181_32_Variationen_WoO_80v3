@@ -2919,62 +2919,7 @@
 							</staff>
 						</measure>
 						<sb/>
-						<measure facs="#zone_e0c0e464-6efa-4f59-bafd-561228a1b516" label="53" n="53" xml:id="measure_cca200c6-6022-4169-82cb-7b2d22c7e4fc">
-							<staff n="1" xml:id="staff-0000000394805589">
-								<layer n="1" xml:id="layer-0000000603525097">
-									<beam xml:id="beam-0000001465049038">
-										<tuplet bracket.visible="false" num="3" num.visible="false" numbase="2" xml:id="tuplet-0000000841716189">
-											<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="note-0000000454049186">
-												<accid accid="s" xml:id="accid-0000001722538482"/>
-											</note>
-											<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="note-0000001195121270"/>
-											<note accid.ges="s" dur="8" oct="4" pname="f" stem.dir="up" xml:id="note-0000001034092534"/>
-										</tuplet>
-									</beam>
-									<beam xml:id="beam-0000000424208928">
-										<tuplet bracket.visible="false" num="3" num.visible="false" numbase="2" xml:id="tuplet-0000001468917833">
-											<note accid.ges="f" dur="8" oct="5" pname="e" stem.dir="up" xml:id="note-0000000827165233"/>
-											<note accid.ges="s" dur="8" oct="4" pname="f" stem.dir="up" xml:id="note-0000000977282794"/>
-											<note accid.ges="f" dur="8" oct="5" pname="e" stem.dir="up" xml:id="note-0000000900753443"/>
-										</tuplet>
-									</beam>
-									<beam xml:id="beam-0000001973263946">
-										<tuplet bracket.visible="false" num="3" num.visible="false" numbase="2" xml:id="tuplet-0000001732505651">
-											<note dur="8" oct="5" pname="c" stem.dir="down" xml:id="note-0000000410969406"/>
-											<note dur="8" oct="5" pname="f" stem.dir="down" xml:id="note-0000001339267953">
-												<accid accid="s" xml:id="accid-0000001677675516"/>
-											</note>
-											<note dur="8" oct="5" pname="c" stem.dir="down" xml:id="note-0000000058476507"/>
-										</tuplet>
-									</beam>
-								</layer>
-							</staff>
-							<staff n="2" xml:id="staff-0000000771128057">
-								<layer n="1" xml:id="layer-0000002061348541">
-									<beam xml:id="beam-0000000901013678">
-										<tuplet bracket.visible="false" num="3" num.visible="false" numbase="2" xml:id="tuplet-0000001790462372">
-											<note accid="f" dur="8" oct="3" pname="a" stem.dir="down" xml:id="note-0000000225257076"/>
-											<note accid="f" dur="8" oct="3" pname="e" stem.dir="down" xml:id="note-0000000105305129"/>
-											<note accid.ges="f" dur="8" oct="3" pname="a" stem.dir="down" xml:id="note-0000002079665977"/>
-										</tuplet>
-									</beam>
-									<beam xml:id="beam-0000000899549943">
-										<tuplet bracket.visible="false" num="3" num.visible="false" numbase="2" xml:id="tuplet-0000000879141670">
-											<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="note-0000000517245398"/>
-											<note accid.ges="f" dur="8" oct="3" pname="e" stem.dir="up" xml:id="note-0000001631758427"/>
-											<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="note-0000000373969499"/>
-										</tuplet>
-									</beam>
-									<beam xml:id="beam-0000000402444811">
-										<tuplet bracket.visible="false" num="3" num.visible="false" numbase="2" xml:id="tuplet-0000001325013160">
-											<note accid.ges="f" dur="8" oct="3" pname="e" stem.dir="up" xml:id="note-0000002012433617"/>
-											<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="note-0000001673769960"/>
-											<note accid.ges="f" dur="8" oct="2" pname="a" stem.dir="up" xml:id="note-0000000503505492"/>
-										</tuplet>
-									</beam>
-								</layer>
-							</staff>
-						</measure>
+						<measure facs="#zone_e0c0e464-6efa-4f59-bafd-561228a1b516" label="53" n="53" xml:id="measure_cca200c6-6022-4169-82cb-7b2d22c7e4fc"/>
 						<measure facs="#zone_3bf44b05-51cd-4eea-934a-13b10d2f1741" label="54" n="54" xml:id="measure_2af23343-ddda-443d-b530-8951a2b55732">
 							<staff n="1" xml:id="staff-0000001490284260">
 								<layer n="1" xml:id="layer-0000000641877214">
