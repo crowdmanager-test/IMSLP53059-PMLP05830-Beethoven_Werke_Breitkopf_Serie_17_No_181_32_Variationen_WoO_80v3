@@ -370,29 +370,7 @@
 					<scoreDef/>
 					<section>
 						<pb/>
-						<measure facs="#zone_0c40904e-6592-421f-81e6-919070e5da19" label="1" n="1" xml:id="measure_ec589d8f-5539-4799-be5a-3d2c0b5a9bdb">
-							<staff n="1" xml:id="staff-0000001516804281">
-								<layer n="1" xml:id="layer-0000000044583165">
-									<rest dur="4" xml:id="rest-0000001174610805"/>
-									<note dots="2" dur="4" oct="5" pname="c" stem.dir="down" xml:id="note-0000000134472448"/>
-									<note accid.ges="f" dur="16" oct="5" pname="e" stem.dir="down" xml:id="note-0000000203633558"/>
-								</layer>
-							</staff>
-							<staff n="2" xml:id="staff-0000000537872415">
-								<layer n="1" xml:id="layer-0000002075276506">
-									<chord dots="1" dur="2" stem.dir="down" xml:id="chord-0000000713115415">
-										<note oct="3" pname="c" xml:id="note-0000001073181136"/>
-										<note accid.ges="f" oct="3" pname="e" xml:id="note-0000000802005411"/>
-										<note oct="3" pname="g" xml:id="note-0000000930228501"/>
-									</chord>
-								</layer>
-							</staff>
-							<tempo midi.bpm="96" place="above" staff="1" tstamp="1" type="tempo" xml:id="tempo-00001251234827"/>
-							<tempo place="above" staff="1" tstamp="1" type="heading" xml:id="tempo-00012351243123">
-								<rend fontsize="125%" fontstyle="normal" fontweight="normal" halign="center" valign="middle"/>
-							</tempo>
-							<dynam place="above" staff="2" tstamp="1" vgrp="10" xml:id="dynam-0000001255055352"/>
-						</measure>
+						<measure facs="#zone_0c40904e-6592-421f-81e6-919070e5da19" label="1" n="1" xml:id="measure_ec589d8f-5539-4799-be5a-3d2c0b5a9bdb"/>
 						<measure facs="#zone_c28aa876-540b-4188-8bfa-7e907fdab80c" label="2" n="2" xml:id="measure_153e05c5-c63d-4b32-9d00-4207ba7b488b">
 							<staff n="1" xml:id="staff-0000001787004391">
 								<layer n="1" xml:id="layer-0000001278118200">
