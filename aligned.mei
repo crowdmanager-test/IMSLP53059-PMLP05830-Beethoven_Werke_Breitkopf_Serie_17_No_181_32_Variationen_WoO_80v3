@@ -371,7 +371,42 @@
 					<section>
 						<pb/>
 						<measure facs="#zone_0c40904e-6592-421f-81e6-919070e5da19" label="1" n="1" xml:id="measure_ec589d8f-5539-4799-be5a-3d2c0b5a9bdb"/>
-						<measure facs="#zone_c28aa876-540b-4188-8bfa-7e907fdab80c" label="2" n="2" xml:id="measure_153e05c5-c63d-4b32-9d00-4207ba7b488b"/>
+						<measure facs="#zone_c28aa876-540b-4188-8bfa-7e907fdab80c" label="2" n="2" xml:id="measure_153e05c5-c63d-4b32-9d00-4207ba7b488b">
+							<staff n="1" xml:id="staff-0000001787004391">
+								<layer n="1" xml:id="layer-0000001278118200">
+									<note dur="8" oct="5" pname="d" stem.dir="down" xml:id="note-0000002014846651">
+										<artic artic="stacc" xml:id="artic-0000001686773697"/>
+									</note>
+									<rest dur="8" xml:id="rest-0000000813937416"/>
+									<note dots="1" dur="4" oct="4" pname="g" stem.dir="up" xml:id="note-0000000407688596"/>
+									<beam xml:id="beam-0000000221289339">
+										<tuplet bracket.visible="false" num="5" num.place="below" numbase="4" xml:id="tuplet-0000001698832106">
+											<note dur="32" oct="4" pname="g" stem.dir="up" xml:id="note-0000001058404577"/>
+											<note dur="32" oct="4" pname="a" stem.dir="up" xml:id="note-0000001707708342">
+												<accid accid="n" xml:id="accid-0000001058893227"/>
+											</note>
+											<note dur="32" oct="4" pname="b" stem.dir="up" xml:id="note-0000000185008559">
+												<accid accid="n" xml:id="accid-0000001832926178"/>
+											</note>
+											<note dur="32" oct="5" pname="c" stem.dir="up" xml:id="note-0000000125255639"/>
+											<note dur="32" oct="5" pname="d" stem.dir="up" xml:id="note-0000000759610388"/>
+										</tuplet>
+									</beam>
+								</layer>
+							</staff>
+							<staff n="2" xml:id="staff-0000000465033416">
+								<layer n="1" xml:id="layer-0000000436091455">
+									<chord dots="1" dur="2" stem.dir="down" xml:id="chord-0000001533276425">
+										<note oct="2" pname="b" xml:id="note-0000001097619091">
+											<accid accid="n" xml:id="accid-0000000987533119"/>
+										</note>
+										<note oct="3" pname="d" xml:id="note-0000000594142568"/>
+										<note oct="3" pname="g" xml:id="note-0000002123078394"/>
+									</chord>
+								</layer>
+							</staff>
+							<slur endid="#note-0000000759610388" startid="#note-0000001058404577" xml:id="slur-0000000966130765"/>
+						</measure>
 						<measure facs="#zone_92f6fe6f-ddb5-4e27-b853-f1064f46282d" label="3" n="3" xml:id="measure_9d28dce5-c19c-4435-a526-8c7369dfd9b2">
 							<staff n="1" xml:id="staff-0000000671578053">
 								<layer n="1" xml:id="layer-0000001601018145">
